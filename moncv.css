@@ -1,0 +1,23 @@
+* { margin: 0; padding: 0; }
+        body { font: 16px Helvetica, Sans-Serif; line-height: 24px; background-color: #FFFFE0; background-image: url("landscape.lake.jpg"); background-attachment: fixed; background-repeat: no-repeat;  background-size: 1530px 730px; background-position: center center; }
+        .clear { clear: both; } 
+        #page-wrap { width: 800px; margin: 40px auto 60px; }
+        #pic { float: right; margin: -30px 0 0 0; }
+        h1 { margin: 0 0 12px -100px; padding: 0 0 16px 0; font-size: 38px; font-weight: bold; letter-spacing: -1px; border-bottom: 1px solid #999; border-color: green; }
+        h1 span {font-size: 25px; font-style: italic; margin-left: 15px; }
+        h2 { font-size: 20px; font-style: italic; margin: 0 0 6px -100px; position: relative; color: red; }
+        h2 span { position: absolute; bottom: 0; right: 0; font-style: italic; font-family: Georgia, Serif; font-size: 16px; color: #999; font-weight: normal; }
+        h3 { font-size: 20px; font-style: italic; margin: 0 0 6px -50px; position: relative; color: green; }
+        h3 span { position: absolute; bottom: 0; right: 0; font-style: italic; font-family: Georgia, Serif; font-size: 16px; color: brown; font-weight: normal; text-shadow: 1px 1px; margin-right: -150px; margin-left: -150px; }
+        h5 { font-size: 14px; font-style: italic; font-weight: bold; margin-top: -20px; margin-left: 11px; margin-right: -30px; line-height: 160%; color: green;  }
+        h6 { font-size: 15px; font-weight: normal; text-align: right; padding-left: 0px; box-sizing: border-box; margin-right: -320px; margin-bottom: 0px; color: blue; }
+        p { margin: 0 -100px 12px -50px; }
+        p span { margin: 0 -50px 80px -50px; }
+        a { color: #4fead1; text-decoration: none; margin-left: -50px; border-bottom: 1px dotted #999; }
+        a:hover { border-bottom-style: solid; color: black; }
+        ul { margin: 0 0 32px -30px; }
+        #objective { margin-left: -50px; width: 600px; float: left; }
+        #objective p { font-family: Georgia, Serif; font-style: italic; color: #666; }
+        dt { font-style: italic; font-weight: bold; font-size: 20px; color: blue; text-align: right; padding: 0 75px 0 0; margin-left: -100px; width: 150px; float: left; height: 150px; border-right: 2px solid #999; border-color: blue;  }
+        dd { width: 600px; float: right; }
+        dd.clear { float: none; margin: 0; height: 15px; }
